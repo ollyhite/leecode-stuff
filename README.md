@@ -2,17 +2,21 @@
 
 ## Description
 
-Personal practice and share the solution to the LeetCode problem
+Personal practice and share the solution of the LeetCode problem
 
 
+## 30 Days of JavaScript
 
 | #  | Title | Solution | Level
-| ------------- | ------------- | ------------- | -------------
+| ------------- | ------------- | ------------- | -------------|
+| 2667  | [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Easy
 | 2722  | [2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Medium
 
 ## Author Info & Getting Help
 
+- [Pei-Yun Hite's LinkedIn](https://www.linkedin.com/in/peiyunhite/)
 - [Pei-Yun Hite's Github Link](https://github.com/ollyhite)
+- [Pei-Yun Hite's Portfolio](https://www.peiyunhite.com/)
 - Send Qquestions or suggestions for changes to the readme_generator_tool project maintainer, [Pei-Yun Hite](mailto:ollyhite8520@gmail.com?subject=[GitHub]%20employee_organizer%20) , for consideration.
 
 ## License
