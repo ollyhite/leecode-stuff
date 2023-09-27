@@ -6,9 +6,9 @@ Personal practice and share the solution to the LeetCode problem
 
 
 
-#  | Title | Solution | Level
-------------- | ------------- | ------------- | -------------
-2722  | [2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Medium
+| #  | Title | Solution | Level
+| ------------- | ------------- | ------------- | -------------
+| 2722  | [2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Medium
 
 ## Author Info & Getting Help
 
