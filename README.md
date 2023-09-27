@@ -9,8 +9,9 @@ Personal practice and share the solution of the LeetCode problem
 
 | #  | Title | Solution | Level
 | ------------- | ------------- | ------------- | -------------|
-| 2667  | [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Easy
-| 2722  | [2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Medium
+| 2667  | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Easy|
+| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Easy|
+| 2722  | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Medium
 
 ## Author Info & Getting Help
 
