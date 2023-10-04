@@ -9,19 +9,20 @@ Personal practice and share the solution of the LeetCode problem
 
 ### Closures
 
-| #  | Title | Solution | Level
+| #  | Title | Solution | Level |
 | ------------- | ------------- | ------------- | -------------|
 | 2667  | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Easy|
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Easy|
 
 ### Basic Array Transformations
-| #  | Title | Solution | Level
+| #  | Title | Solution | Level |
 | ------------- | ------------- | ------------- | -------------|
 |2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)| JavaScript | Easy|
 
 ### JSON
-| #  | Title | Solution | Level
+| #  | Title | Solution | Level |
 | ------------- | ------------- | ------------- | -------------|
+|2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript)|JavaScript|Easy|
 |2631 | [Group By](https://leetcode.com/problems/group-by/?envType=study-plan-v2&envId=30-days-of-javascript)| JavaScript | Medium|
 | 2722  | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/?envType=study-plan-v2&envId=30-days-of-javascript) | JavaScript | Medium |
 
